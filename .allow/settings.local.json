@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python explore_db.py)",
+      "Bash(python -c ' *)"
+    ]
+  }
+}
